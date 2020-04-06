@@ -1,2 +1,4 @@
-# rmi_ball_detection
-Tools used to train a YOLOv3 model to detect RoboCup balls
+![X0](images/X0)
+
+![X0](images/X0)
+
