@@ -3,7 +3,7 @@ numexpr==2.7.0
 numpy==1.17.4
 opencv-python==4.1.2.30
 pandas==0.24.2
-Pillow==6.2.1
+Pillow==8.2.0
 pkg-resources==0.0.0
 python-dateutil==2.8.1
 pytz==2019.3
